@@ -1,0 +1,16 @@
+.yellowbox {
+	background-color: yellow;
+}
+.redbox {
+	background-color: red;
+}
+body {
+	display: inline-block;
+}
+p {
+	width: 200px;
+	height: 90px;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin: 10px;
+}
